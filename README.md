@@ -5,3 +5,6 @@
 
 ### Day-02 Operators
 ### [Day-02](./02_operators/index.js)
+
+### Day-03 Control Structures
+### [Day-03](./03_control_structures/index.js)
