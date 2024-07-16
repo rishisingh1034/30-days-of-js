@@ -8,3 +8,6 @@
 
 ### Day-03 Control Structures
 ### [Day-03](./03_control_structures/index.js)
+
+### Day-04 Loops
+### [Day-04](./04_loops/index.js)
