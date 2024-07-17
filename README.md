@@ -11,3 +11,6 @@
 
 ### Day-04 Loops
 ### [Day-04](./04_loops/index.js)
+
+### Day-05 Functions
+### [Day-05](./05_functions/index.js)
