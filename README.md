@@ -14,3 +14,6 @@
 
 ### Day-05 Functions
 ### [Day-05](./05_functions/index.js)
+
+### Day-06 Arrays
+### [Day-05](./06_arrays/index.js)
