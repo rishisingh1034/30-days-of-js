@@ -17,3 +17,12 @@
 
 ### Day-06 Arrays
 ### [Day-06](./06_arrays/index.js)
+
+### Day-07 Objects
+### [Day-07](./06_objects/index.js)
+
+### Day-08 ES6+ Features
+### [Day-08](./08_es6+features/index.js)
+
+### Day-09 DOM Manipulation
+### [Day-09](./09_DOM_Manipulation/main.js)
